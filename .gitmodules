@@ -1,0 +1,12 @@
+[submodule "TEF-Frontend"]
+	path = TEF-Frontend
+	url = https://github.com/ipmanlk/TEF-Frontend
+[submodule "TEF-Backend"]
+	path = TEF-Backend
+	url = https://github.com/ipmanlk/TEF-Backend
+[submodule "TEF-ER"]
+	path = TEF-ER
+	url = https://github.com/ipmanlk/TEF-ER
+[submodule "TEF-Report"]
+	path = TEF-Report
+	url = https://github.com/ipmanlk/TEF-Report
